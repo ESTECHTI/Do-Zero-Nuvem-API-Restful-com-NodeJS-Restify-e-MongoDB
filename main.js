@@ -1,4 +1,4 @@
-const process = require("process");
+const fatorial = require('./fatorial')
 
 console.log("n-fatorial");
 
@@ -8,13 +8,7 @@ console.log("n-fatorial");
 //   console.log('script está preste a terminar')
 // })
 
-const fatorial = (num)=>{
-  if(num === 0) {
-    return 1
-  }
 
-  return num * fatorial (num - 1)
-}
 
 const num = parseInt(process.argv[2])
 
