@@ -1,0 +1,23 @@
+{
+  "name": "Do-Zero-Nuvem-API-Restful-com-NodeJS-Restify-e-MongoDB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESTECHTI/Do-Zero-Nuvem-API-Restful-com-NodeJS-Restify-e-MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ESTECHTI/Do-Zero-Nuvem-API-Restful-com-NodeJS-Restify-e-MongoDB/issues"
+  },
+  "homepage": "https://github.com/ESTECHTI/Do-Zero-Nuvem-API-Restful-com-NodeJS-Restify-e-MongoDB#readme",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
