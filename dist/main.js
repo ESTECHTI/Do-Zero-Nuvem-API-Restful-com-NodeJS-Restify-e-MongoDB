@@ -8,5 +8,5 @@ console.log("n-fatorial");
 //   console.log('script está preste a terminar')
 // })
 const num = argv.num;
-console.log(`O fatorial de ${num} é igual a ${fatorial_1.fatorial(num)}`);
+console.log(`O fatorial de ${num} é igual a ${(0, fatorial_1.fatorial)(num)}`);
 //# sourceMappingURL=main.js.map
